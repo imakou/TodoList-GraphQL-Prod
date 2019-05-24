@@ -4,23 +4,23 @@ self.__precacheManifest = [
     "url": "/TodoList-GraphQL-Prod/static/js/runtime~main.82e43242.js"
   },
   {
-    "revision": "02daa553efae39406dc0",
-    "url": "/TodoList-GraphQL-Prod/static/js/main.98a9db9c.chunk.js"
+    "revision": "0d9db1ef6a96678d3c04",
+    "url": "/TodoList-GraphQL-Prod/static/js/main.9a159ffb.chunk.js"
   },
   {
-    "revision": "e9abd69abb913c0dddb4",
-    "url": "/TodoList-GraphQL-Prod/static/js/2.343cd1c0.chunk.js"
+    "revision": "11f0c55991583cc4a205",
+    "url": "/TodoList-GraphQL-Prod/static/js/2.cbd89876.chunk.js"
   },
   {
-    "revision": "02daa553efae39406dc0",
+    "revision": "0d9db1ef6a96678d3c04",
     "url": "/TodoList-GraphQL-Prod/static/css/main.2dba6753.chunk.css"
   },
   {
-    "revision": "e9abd69abb913c0dddb4",
+    "revision": "11f0c55991583cc4a205",
     "url": "/TodoList-GraphQL-Prod/static/css/2.7d49b087.chunk.css"
   },
   {
-    "revision": "4241cf408d7b54240eaa2fd053fe37b4",
+    "revision": "4e7d8cab31afd65cbbd950fd6ac64856",
     "url": "/TodoList-GraphQL-Prod/index.html"
   }
 ];
