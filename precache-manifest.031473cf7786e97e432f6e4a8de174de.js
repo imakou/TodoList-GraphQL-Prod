@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/TodoList-GraphQL-Prod/static/js/runtime~main.82e43242.js"
   },
   {
-    "revision": "a73f41913f4c945aabbf",
-    "url": "/TodoList-GraphQL-Prod/static/js/main.c508a15d.chunk.js"
+    "revision": "33ac5286747a62aa8c51",
+    "url": "/TodoList-GraphQL-Prod/static/js/main.47e4272f.chunk.js"
   },
   {
     "revision": "e9abd69abb913c0dddb4",
     "url": "/TodoList-GraphQL-Prod/static/js/2.343cd1c0.chunk.js"
   },
   {
-    "revision": "a73f41913f4c945aabbf",
+    "revision": "33ac5286747a62aa8c51",
     "url": "/TodoList-GraphQL-Prod/static/css/main.2dba6753.chunk.css"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/TodoList-GraphQL-Prod/static/css/2.7d49b087.chunk.css"
   },
   {
-    "revision": "d008b284f8559b2cc5ab72e9f6c91531",
+    "revision": "4bc361adbc0cd278993bbbd6b614f547",
     "url": "/TodoList-GraphQL-Prod/index.html"
   }
 ];
