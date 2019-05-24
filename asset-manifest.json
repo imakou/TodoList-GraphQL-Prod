@@ -1,15 +1,15 @@
 {
-  "main.css": "/static/css/main.2dba6753.chunk.css",
-  "main.js": "/static/js/main.ef0d847d.chunk.js",
-  "main.js.map": "/static/js/main.ef0d847d.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-  "static/css/2.7d49b087.chunk.css": "/static/css/2.7d49b087.chunk.css",
-  "static/js/2.2337fd73.chunk.js": "/static/js/2.2337fd73.chunk.js",
-  "static/js/2.2337fd73.chunk.js.map": "/static/js/2.2337fd73.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.aff5df285f484c8f38197e97b51019a2.js": "/precache-manifest.aff5df285f484c8f38197e97b51019a2.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/2.7d49b087.chunk.css.map": "/static/css/2.7d49b087.chunk.css.map",
-  "static/css/main.2dba6753.chunk.css.map": "/static/css/main.2dba6753.chunk.css.map"
+  "main.css": "/TodoList-GraphQL-Prod/static/css/main.2dba6753.chunk.css",
+  "main.js": "/TodoList-GraphQL-Prod/static/js/main.c508a15d.chunk.js",
+  "main.js.map": "/TodoList-GraphQL-Prod/static/js/main.c508a15d.chunk.js.map",
+  "runtime~main.js": "/TodoList-GraphQL-Prod/static/js/runtime~main.82e43242.js",
+  "runtime~main.js.map": "/TodoList-GraphQL-Prod/static/js/runtime~main.82e43242.js.map",
+  "static/css/2.7d49b087.chunk.css": "/TodoList-GraphQL-Prod/static/css/2.7d49b087.chunk.css",
+  "static/js/2.343cd1c0.chunk.js": "/TodoList-GraphQL-Prod/static/js/2.343cd1c0.chunk.js",
+  "static/js/2.343cd1c0.chunk.js.map": "/TodoList-GraphQL-Prod/static/js/2.343cd1c0.chunk.js.map",
+  "index.html": "/TodoList-GraphQL-Prod/index.html",
+  "precache-manifest.0fc9aad3f679cc3634600019533bf614.js": "/TodoList-GraphQL-Prod/precache-manifest.0fc9aad3f679cc3634600019533bf614.js",
+  "service-worker.js": "/TodoList-GraphQL-Prod/service-worker.js",
+  "static/css/2.7d49b087.chunk.css.map": "/TodoList-GraphQL-Prod/static/css/2.7d49b087.chunk.css.map",
+  "static/css/main.2dba6753.chunk.css.map": "/TodoList-GraphQL-Prod/static/css/main.2dba6753.chunk.css.map"
 }
